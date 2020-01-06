@@ -3,7 +3,7 @@ var userHistory = [];
 var latitude;
 var longitude;
 var inputID;
-var apikey = '27238d939c7ff93d4301594b1144a712';
+var apikey = 'YOUR_API_KEY';
 
 //click search button
 $('#userInputButton').click(function (){
